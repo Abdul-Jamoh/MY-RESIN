@@ -64,7 +64,7 @@ body{
 
 @media (max-width:30rem){
     .menubar {
-        width: 22rem;
+        width: 21rem;
         display: flex;
         background-color: red;
         margin: 0;
